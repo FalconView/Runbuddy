@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://falconview.github.io/Runbuddy/
 
 ## Contribution
 Made with ❤️ by Feroz Zargar
